@@ -1,1 +1,21 @@
+# SIUE AR Navigation Research Notes
 
+## Project Goals
+- Develop AR Campus Navigation App
+- Platforms: iOS and Android
+
+## Research Topics
+- AR Navigation Technologies
+- Campus Mapping Techniques
+- User Experience Considerations
+
+## Initial Technology Stack
+- Unity
+- AR Foundation
+- ARCore (Android)
+- ARKit (iOS)
+
+## Key Challenges
+- GPS Accuracy
+- Indoor Navigation
+- Cross-Platform Compatibility
